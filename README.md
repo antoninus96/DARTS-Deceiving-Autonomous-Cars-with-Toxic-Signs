@@ -42,4 +42,4 @@ python setup.py
 * [Leonardo Salvucci](https://www.linkedin.com/in/leonardo-salvucci/)  
 
 ### Useful links ###
-Paper: <br/>
+Paper: https://drive.google.com/file/d/1GtbJW3o_O1Fyb_CTORxyX4GDLOPBC_ee/view?usp=sharing <br/>
